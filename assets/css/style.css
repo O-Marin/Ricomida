@@ -1,0 +1,76 @@
+body{
+    font-family: 'Cabin', sans-serif;
+
+    
+}
+
+nav{
+    background-color: #373A3C ;
+
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.fuente-cabin{
+    font-family: 'Cabin', sans-serif;
+}
+
+.fuente-lobster{
+    font-family: 'Lobster', cursive;
+}
+
+
+.margen-redux{
+    display: flex;
+    flex-direction: column;
+}
+
+h2{
+    color: #373A3C;
+}
+
+.hed-bot{
+    color: #373A3C;
+}
+
+.receta{
+    color: #373A3C;
+    font-family: 'Cabin', sans-serif;
+    
+}
+
+hr {
+    border: 1px solid black;
+    
+}
+
+section div p{
+    font-size: 20px;
+}
+
+section .receta div p p{
+    
+    padding: 0px;
+}
+
+.subscribe{
+    background-color: #DC3545;
+    color: white;
+    
+}
+
+footer h2{
+    background-color: #373A3C;
+    color: white;
+}
+
+.subscribe h1{
+    font-size: 40px;
+}
+
+.cartas{
+    font-size: 16px;
+}
